@@ -40,6 +40,6 @@ Education
 - Bachelor of Engineering in Flight Vehicle Propulsion Engineering
 - Bachelor of Management in Business Administration (minor)
 
-<!-- Other Useful Links
+Useful Links
 ------
-[@Terrier Team](https://twitter.com/terrierteam), [@Glasgow IR Group](https://twitter.com/IR_Glasgow) -->
+[@Terrier Team](https://twitter.com/terrierteam), [@Glasgow IR Group](https://twitter.com/IR_Glasgow)
