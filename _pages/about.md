@@ -34,7 +34,7 @@ Education
 
 [2013-2016] [Beihang University](https://ev.buaa.edu.cn/) (BUAA, [Project 985](https://en.wikipedia.org/wiki/Project_985)), Beijing, China
 - Master of Engineering in Aerospace Science and Technology
-- Supervised by Professor [Haixing Wang](http://www.sa.buaa.edu.cn/info/1150/6863.htm) ([Google Scholar](https://scholar.google.com/citations?user=8tWY8XAAAAAJ&hl=en)), Excellent Master’s Degree Dissertation
+- Excellent Master’s Degree Dissertation, supervised by Professor [Haixing Wang](http://www.sa.buaa.edu.cn/info/1150/6863.htm) ([Google Scholar](https://scholar.google.com/citations?user=8tWY8XAAAAAJ&hl=en))
 
 [2009-2013] [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU, [Project 211](https://en.wikipedia.org/wiki/Project_211)), Harbin, China
 - Bachelor of Engineering in Flight Vehicle Propulsion Engineering
