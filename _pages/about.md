@@ -40,6 +40,10 @@ Education
 - Bachelor of Engineering in Flight Vehicle Propulsion Engineering
 - Bachelor of Management in Business Administration (minor)
 
+Activities
+------
+- Lab Demonstrator for Information Retrieval in 2019 and Recommender System in 2020 & 2021, at UofG.
+
 Useful Links
 ------
 [@Terrier Team](https://twitter.com/terrierteam), [@Glasgow IR Group](https://twitter.com/IR_Glasgow)
