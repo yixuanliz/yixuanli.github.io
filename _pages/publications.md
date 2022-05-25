@@ -6,6 +6,8 @@ author_profile: true
 permalink: /publications/
 ---
 
+You can also find my papers on <u><a href="https://scholar.google.com/citations?user=zKPWrEAAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+
 <h3 style="margin-bottom:0px;padding-top:20px;">2022</h3>
 
   <!-- Item: wu2022negative -->
