@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaxiong Wu (Yashon)"
+title                    : "Yaxiong Wu"
 title_separator          : "-"
-name                     : &name "Yaxiong Wu"
+name                     : &name "Yaxiong Wu (Yashon)"
 description              : &description "personal description"
 url                      : https://yashonwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
