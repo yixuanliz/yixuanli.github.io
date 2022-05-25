@@ -6,14 +6,14 @@ author_profile: true
 permalink: /publications/
 ---
 
-<h3 style="margin-bottom:0px;padding-top:20px;">2022</h4>
+<h3 style="margin-bottom:0px;padding-top:20px;">2022</h3>
 
   <!-- Item: wu2022negative -->
   <li >
   <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback.&rdquo; CUI 2022 (Accepted).
 
 
-<h3 style="margin-bottom:0px;padding-top:20px;">2021</h4>
+<h3 style="margin-bottom:0px;padding-top:20px;">2021</h3>
 <!--   <ul class="biblist"> -->
 
   <!-- Item: wu2021partially -->
@@ -23,7 +23,7 @@ permalink: /publications/
   <a href="https://eprints.gla.ac.uk/246701/2/246701.pdf">[PDF]</a>
 
 
-<h3 style="margin-bottom:0px;padding-top:20px;">2020</h4>
+<h3 style="margin-bottom:0px;padding-top:20px;">2020</h3>
 
   <!-- Item: wu2020hybrid -->
   <li >
