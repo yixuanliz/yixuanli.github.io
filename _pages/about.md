@@ -26,19 +26,19 @@ News
 
 Education
 ------
-2019-now  [University of Glasgow](https://www.gla.ac.uk/) (UofG), Glasgow, UK
+[2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG), Glasgow, UK
           - PhD Candidate in Conversational Recommendation, expected to graduate before 09/2023
 
-2018-2019 [University of Glasgow](https://www.gla.ac.uk/) (UofG), Glasgow, UK
+[2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG), Glasgow, UK
           - Postgraduate Taught            MSc in Data Science
           - Graduation with Distinction
 
-2013-2016 [Beihang University](https://ev.buaa.edu.cn/) (BUAA), Beijing, China
+[2013-2016] [Beihang University](https://ev.buaa.edu.cn/) (BUAA), Beijing, China
           - Master of Engineering          Aerospace Science and Technology
           - Supervised by Professor [Haixing Wang](http://www.sa.buaa.edu.cn/info/1150/6863.htm) ([Google Scholar](https://scholar.google.com/citations?user=8tWY8XAAAAAJ&hl=en))
           - Excellent Master’s Degree Dissertation
 
-2009-2013 [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU), Harbin, China
+[2009-2013] [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU), Harbin, China
           - Bachelor of Engineering        Flight Vehicle Propulsion Engineering
           - Bachelor of Management         Business Administration (minor)
 
