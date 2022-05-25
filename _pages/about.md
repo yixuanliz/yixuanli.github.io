@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yaxiong Wu"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-======
 I am currently a 3rd year PhD student at the [University of Glasgow](https://www.gla.ac.uk/).
 
 
