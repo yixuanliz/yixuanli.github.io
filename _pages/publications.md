@@ -11,28 +11,12 @@ permalink: /publications/
 
   <!-- Item: wu2020hybrid -->
   <li ><p>
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. <br>
-  &ldquo;A hybrid conditional variational autoencoder model for personalised top-n recommendation.&rdquo;<br>
-  <i>Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval</i>, 2020.  
-
+  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;A hybrid conditional variational autoencoder model for personalised top-n recommendation.&rdquo; Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval, 2020.  
   <br />
-  <a href="javascript:toggleBibtex('wu2020hybrid')">[BibTeX]</a>
+  <a href="[javascript:toggleBibtex('wu2020hybrid')](https://scholar.googleusercontent.com/scholar.bib?q=info:wGZEuZSH7McJ:scholar.google.com/&output=citation&scisdr=CgWyeQZ5EKDMth-m_gE:AAGBfm0AAAAAYo6g5gGthUp_KWgIzAQiGG2AweHABpdc&scisig=AAGBfm0AAAAAYo6g5oLKMzLM_9zU8qpGVcllHw1oRpfJ&scisf=4&ct=citation&cd=-1&hl=en)">[BibTeX]</a>
   <a href="https://eprints.gla.ac.uk/219367/1/219367.pdf">[PDF]</a>
   <a href="https://eprints.gla.ac.uk/219367/1/219367.pdf">[Presentation]</a>
 
-  </p>
-  <div id="wu2020hybrid" class="bibtex noshow">
-  <pre>
-  @inproceedings{wu2020hybrid,
-  title={A hybrid conditional variational autoencoder model for personalised top-n recommendation},
-  author={Wu, Yaxiong and Macdonald, Craig and Ounis, Iadh},
-  booktitle={Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval},
-  pages={89--96},
-  year={2020}
-}
-  </pre>
-  </div>
-  </li>
 
 
 <!-- ---
