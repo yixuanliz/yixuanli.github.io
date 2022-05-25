@@ -1,11 +1,9 @@
 ---
 permalink: /
 title: "Publications"
-excerpt: "About me"
+excerpt: "Publications"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /publications/
 ---
 
 
