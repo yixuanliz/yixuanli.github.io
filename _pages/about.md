@@ -9,14 +9,38 @@ redirect_from:
 ---
 
 I am currently a 3rd-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Dr [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
-My recent research interest is mainly about **Conversational Recommendation in E-commerce**. In particular, I mainly focus on four things:
+My recent research interest is mainly about **Conversational Recommendation in E-commerce**. In particular, I mainly focus on three things:
 - **multi-modality**: extracting the feature representations from both the system's visual recommendations and the users' natural-language feedback,
 - **dialog management**: tracking/estimating the users' preferences over time and specialising a dialog policy with reinforcement learning,
-- **interpretability**: what are the factors that affect the effectiveness of the conversational recommendation models.
-- **user simulator**: leveraging the simulation techniques for imitating the users' feedback for training and evaluation 
+- **user simulator**: leveraging the simulation techniques for imitating the users' feedback for the purpose of training and evaluation.
 
 My study is funded by the [Closed Loop Data Science](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/) Project and the [Computing Science Excellence Bursary](https://www.gla.ac.uk/scholarships/schoolofcomputingscienceinternationalexcellenceawards/).
 
-For more info
+News
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[28/04/2022] 'Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback' - full paper accepted at [CUI 2022](https://www.conversationaluserinterfaces.org/2022/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
+
+[07/07/2021] 'Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation' - full paper accepted at [RecSys 2021](https://recsys.acm.org/recsys21/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
+
+[30/06/2020] 'A Hybrid Conditional Variational Autoencoder Model for Personalised Top-N Recommendation' - full paper accepted at [ICTIR 2020](https://ictir2020.org/), with [@craig_macdonald](https://twitter.com/craig_macdonald) and [@iadh](https://twitter.com/iadh).
+
+Education
+------
+2019-now  [University of Glasgow](https://www.gla.ac.uk/) (UofG), Glasgow, UK
+          PhD Candidate in Conversational Recommendation, expected to graduate before 09/2023
+
+2018-2019 [University of Glasgow](https://www.gla.ac.uk/) (UofG), Glasgow, UK
+          Postgraduate Taught            MSc in Data Science
+          Graduation with Distinction
+
+2013-2016 [Beihang University](https://ev.buaa.edu.cn/) (BUAA), Beijing, China
+          Master of Engineering          Aerospace Science and Technology
+          Excellent Master’s Degree Dissertation
+
+2009-2013 [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU), Harbin, China
+          Bachelor of Engineering        Flight Vehicle Propulsion Engineering
+          Bachelor of Management         Business Administration (minor)
+
+Other Useful Links
+------
+[Terrier Team Twitter](https://twitter.com/terrierteam), [Glasgow IR Group Twitter](https://twitter.com/IR_Glasgow)
