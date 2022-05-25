@@ -10,7 +10,7 @@ permalink: /publications/
 
   <!-- Item: wu2022negative -->
   <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback.&rdquo; CUI 2022 (Accepted).
+  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback.&rdquo; CUI 2022. (Accepted)
 
 
 <h3 style="margin-bottom:0px;padding-top:20px;">2021</h3>
