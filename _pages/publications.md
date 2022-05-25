@@ -13,7 +13,7 @@ permalink: /publications/
   <li ><p>
   <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;A hybrid conditional variational autoencoder model for personalised top-n recommendation.&rdquo; Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval, 2020.  
   <br />
-  <a href="[javascript:toggleBibtex('wu2020hybrid')](https://scholar.googleusercontent.com/scholar.bib?q=info:wGZEuZSH7McJ:scholar.google.com/&output=citation&scisdr=CgWyeQZ5EKDMth-m_gE:AAGBfm0AAAAAYo6g5gGthUp_KWgIzAQiGG2AweHABpdc&scisig=AAGBfm0AAAAAYo6g5oLKMzLM_9zU8qpGVcllHw1oRpfJ&scisf=4&ct=citation&cd=-1&hl=en)">[BibTeX]</a>
+  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:wGZEuZSH7McJ:scholar.google.com/&output=citation&scisdr=CgWyeQZ5EKDMth-m_gE:AAGBfm0AAAAAYo6g5gGthUp_KWgIzAQiGG2AweHABpdc&scisig=AAGBfm0AAAAAYo6g5oLKMzLM_9zU8qpGVcllHw1oRpfJ&scisf=4&ct=citation&cd=-1&hl=en">[BibTeX]</a>
   <a href="https://eprints.gla.ac.uk/219367/1/219367.pdf">[PDF]</a>
   <a href="https://eprints.gla.ac.uk/219367/1/219367.pdf">[Presentation]</a>
 
