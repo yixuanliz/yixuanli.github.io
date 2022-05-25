@@ -26,17 +26,17 @@ News
 
 Education
 ------
-[2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top-100), Glasgow, UK
+[2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
 - PhD in Computing Science (Research), expected to graduate before 09/2023
 
-[2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top-100), Glasgow, UK
+[2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
 - MSc in Data Science, Graduation with Distinction
 
-[2013-2016] [Beihang University](https://ev.buaa.edu.cn/) (BUAA, 985), Beijing, China
+[2013-2016] [Beihang University](https://ev.buaa.edu.cn/) (BUAA, [Project 985](https://en.wikipedia.org/wiki/Project_985)), Beijing, China
 - Master of Engineering in Aerospace Science and Technology
 - Supervised by Professor [Haixing Wang](http://www.sa.buaa.edu.cn/info/1150/6863.htm) ([Google Scholar](https://scholar.google.com/citations?user=8tWY8XAAAAAJ&hl=en)), Excellent Master’s Degree Dissertation
 
-[2009-2013] [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU, 211), Harbin, China
+[2009-2013] [Harbin Engineering University](https://english.hrbeu.edu.cn/) (HEU, [Project 211](https://en.wikipedia.org/wiki/Project_211)), Harbin, China
 - Bachelor of Engineering in Flight Vehicle Propulsion Engineering
 - Bachelor of Management in Business Administration (minor)
 
