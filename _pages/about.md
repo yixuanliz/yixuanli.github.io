@@ -27,7 +27,7 @@ News
 Education
 ------
 [2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top-100), Glasgow, UK
-- PhD Candidate in Conversational Recommendation, expected to graduate before 09/2023
+- PhD in Computing Science (Research), expected to graduate before 09/2023
 
 [2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top-100), Glasgow, UK
 - MSc in Data Science, Graduation with Distinction
