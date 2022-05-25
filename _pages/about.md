@@ -14,7 +14,7 @@ My recent research interest is mainly about **Conversational Recommendation in E
 - **dialog management**: tracking/estimating the users' preferences over time and specialising a dialog policy with reinforcement learning,
 - **user simulator**: leveraging the simulation techniques for imitating the users' feedback for the purpose of training and evaluation.
 
-My study is funded by the [Closed Loop Data Science](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/) Project and the [Computing Science Excellence Bursary](https://www.gla.ac.uk/scholarships/schoolofcomputingscienceinternationalexcellenceawards/).
+My study is funded by the [Closed Loop Data Science Project](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/) (EPSRC funded) and the [Computing Science Excellence Bursary](https://www.gla.ac.uk/scholarships/schoolofcomputingscienceinternationalexcellenceawards/).
 
 News
 ------
