@@ -8,14 +8,14 @@ permalink: /publications/
 
 You can also find my papers on <u><a href="https://scholar.google.com/citations?user=zKPWrEAAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
-<h3 style="margin-bottom:0px;padding-top:20px;">2022</h3>
+<h1 style="margin-bottom:0px;padding-top:20px;">2022</h1>
 
   <!-- Item: wu2022negative -->
   <li >
   <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback.&rdquo; CUI 2022. (Accepted)
 
 
-<h3 style="margin-bottom:0px;padding-top:20px;">2021</h3>
+<h1 style="margin-bottom:0px;padding-top:20px;">2021</h1>
 <!--   <ul class="biblist"> -->
 
   <!-- Item: wu2021partially -->
@@ -25,7 +25,7 @@ You can also find my papers on <u><a href="https://scholar.google.com/citations?
   <a href="https://eprints.gla.ac.uk/246701/2/246701.pdf">[PDF]</a>
 
 
-<h3 style="margin-bottom:0px;padding-top:20px;">2020</h3>
+<h1 style="margin-bottom:0px;padding-top:20px;">2020</h1>
 
   <!-- Item: wu2020hybrid -->
   <li >
