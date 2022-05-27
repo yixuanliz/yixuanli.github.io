@@ -10,9 +10,9 @@ redirect_from:
 
 I am currently a 3rd-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Dr [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
 My recent research interest is mainly about **Conversational Recommendation in E-commerce**. In particular, I mainly focus on three things:
-- **multi-modality**: extracting the feature representations from both the system's visual recommendations and the users' natural-language feedback,
-- **dialog management**: tracking/estimating the users' preferences over time and specialising a dialog policy with reinforcement learning,
-- **user simulator**: leveraging the simulation techniques for imitating the users' feedback for the purpose of training and evaluation.
+- **multi-modality**: adopting encoders for extracting the multimodal feature representations from both the system's recommendations and the users' feedback,
+- **dialog management**: specialising state trackers for tracking/estimating the users' preferences over time and dialog/recommendation policies with reinforcement learning,
+- **user simulator**: developing the simulation techniques for imitating the users' feedback for the purpose of training and evaluation.
 
 My study is funded by the [Closed Loop Data Science Project](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/) ([EPSRC](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R018634/1) funded) and the [Computing Science Excellence Bursary](https://www.gla.ac.uk/scholarships/schoolofcomputingscienceinternationalexcellenceawards/).
 
