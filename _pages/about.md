@@ -46,7 +46,7 @@ Education
 
 Activities
 ------
-- Lab Demonstrator for Information Retrieval in 2019 and Recommender System in 2020 & 2021, at UofG.
+- Lab Demonstrator for Information Retrieval in 2020 and Recommender System in 2020 & 2021, at UofG.
 
 Useful Links
 ------
