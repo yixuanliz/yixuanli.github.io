@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I am currently a 3rd-year PhD student at the [Terrier Team](http://terrierteam.dcs.gla.ac.uk/index.html) within the [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#), [University of Glasgow](https://www.gla.ac.uk/), supervised by Dr [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) and Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/).
-My recent research interest is mainly about **Conversational Information Seeking (CIS) in E-commerce**. In particular, I mainly focus on three things:
+My recent research interest is mainly about **Multi-Modal Conversational Information Seeking (MMCIS)**. In particular, I mainly focus on three things:
 - **multi-modality**: vision-language pre-training/understanding/reasoning,
 - **dialog management**: specialising conversational information seeking with reinforcement learning,
-- **simulation**: imitating the users' feedback for training and evaluating the CIS models.
+- **simulation**: imitating the users' feedback for training and evaluating the MMCIS models.
 
 <!-- - **multi-modality**: adopting encoders for extracting the multimodal feature representations from both the system's recommendations and the users' feedback,
 - **dialog management**: specialising state trackers for tracking/estimating the users' preferences over time and dialog/recommendation policies with reinforcement learning,
