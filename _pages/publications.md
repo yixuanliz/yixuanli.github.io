@@ -14,8 +14,6 @@ You can also find my papers on <u><a href="https://scholar.google.com/citations?
   <li >
   <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multi-Modal Dialog State Tracking for Interactive Fashion Recommendation.&rdquo; RecSys 2022. (Accepted)
 
-<h1 style="margin-bottom:0px;padding-top:20px;">2022</h1>
-
   <!-- Item: wu2022negative -->
   <li >
   <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback.&rdquo; CUI 2022. (Accepted)
