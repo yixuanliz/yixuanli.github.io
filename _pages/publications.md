@@ -6,17 +6,14 @@ author_profile: true
 permalink: /publications/
 ---
 
-You can also find my papers on <u><a href="https://scholar.google.com/citations?user=zKPWrEAAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+You can also find my papers on <u><a href="https://scholar.google.com/citations?user=BRtf_xIAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 <h1 style="margin-bottom:0px;padding-top:20px;">2022</h1>
 
-  <!-- Item: wu2022multimodal -->
-  <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multi-Modal Dialog State Tracking for Interactive Fashion Recommendation.&rdquo; RecSys 2022. (Accepted)
 
   <!-- Item: wu2022negative -->
   <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Multimodal Conversational Fashion Recommendation with Positive and Negative Natural-Language Feedback.&rdquo; CUI 2022. (Accepted)
+  <b>Yixuan Li</b>, Charalampos Stasinakis, Wee Meng Yeo. &ldquo;A hybrid XGBoost-MLP model for credit risk assessment on digital supply chain finance.&rdquo; Forecasting 2022.<a href="https://www.mdpi.com/2571-9394/4/1/11">[PDF]</a>
 
 
 <h1 style="margin-bottom:0px;padding-top:20px;">2021</h1>
@@ -24,20 +21,10 @@ You can also find my papers on <u><a href="https://scholar.google.com/citations?
 
   <!-- Item: wu2021partially -->
   <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation.&rdquo; RecSys 2021.  
+  <b>Yixuan Li</b>, Charalampos Stasinakis, Wee Meng Yeo. &ldquo;Fintech and banking efficiency: evidence from Chinese commercial banks.&rdquo; SSRN 2021.  
 <!--   <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:WFjgfortG8AJ:scholar.google.com/&output=citation&scisdr=CgWyeQZ5EKDMth-kU9c:AAGBfm0AAAAAYo6iS9eAeTQL8qk9TmnIFO8R9FWAZJ32&scisig=AAGBfm0AAAAAYo6iS1D2ISddSbppjC-PaLpa88LI661V&scisf=4&ct=citation&cd=-1&hl=en">[BibTeX]</a> -->
-  <a href="https://eprints.gla.ac.uk/246701/2/246701.pdf">[PDF]</a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782616">[PDF]</a>
 
-
-<h1 style="margin-bottom:0px;padding-top:20px;">2020</h1>
-
-  <!-- Item: wu2020hybrid -->
-  <li >
-  <b>Yaxiong Wu</b>, Craig Macdonald, Iadh Ounis. &ldquo;A hybrid conditional variational autoencoder model for personalised top-n recommendation.&rdquo; ICTIR 2020.
-<!--   <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:wGZEuZSH7McJ:scholar.google.com/&output=citation&scisdr=CgWyeQZ5EKDMth-m_gE:AAGBfm0AAAAAYo6g5gGthUp_KWgIzAQiGG2AweHABpdc&scisig=AAGBfm0AAAAAYo6g5oLKMzLM_9zU8qpGVcllHw1oRpfJ&scisf=4&ct=citation&cd=-1&hl=en">[BibTeX]</a> -->
-  <a href="https://eprints.gla.ac.uk/219367/1/219367.pdf">[PDF]</a>
-
-    
     
 
 
